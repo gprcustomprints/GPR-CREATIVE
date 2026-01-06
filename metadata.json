@@ -1,0 +1,7 @@
+{
+  "name": "GPR Printing and Advertising - Signage Engine",
+  "description": "A professional quotation system for acrylic signage projects in the Philippines, featuring automated pricing calculations, itemized breakdowns, and profit markup management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
